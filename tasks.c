@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>  // 用于strcmp函数
+#include <string.h>  // strcmp
 #define MAX_LEN 11
 
 int main(){
